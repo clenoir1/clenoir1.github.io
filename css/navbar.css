@@ -1,0 +1,48 @@
+
+.navbar {
+  position:fixed;
+  display: inline-block;
+}
+
+
+.nav-button {
+  width: 150px;
+  margin: 0 auto;
+  display: inline-block;
+  font-size: 16px;
+  font-family: Tahoma, Geneva, sans-serif;
+  margin: 40px;
+  padding-left: 15px;
+
+}
+
+.img-container{
+  width:300px;
+  margin:0 auto;
+  position:relative;
+  top:75px;
+}
+
+img {
+    width:100%;
+    margin:0 auto;
+    /*padding:137px;*/
+    bottom:31px;
+  }
+
+.header{
+  font-family: verdana;
+  font-weight: bolder;
+  background-color: white;
+  color:black;
+  bottom:100px;
+  margin:87px;
+  text-align: center;
+
+}
+
+.content{
+font-family: verdana;
+bottom:100px;
+margin:-58px;
+}

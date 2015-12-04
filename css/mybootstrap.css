@@ -1,0 +1,50 @@
+
+.jumbotron-custom{
+background-image: url('../img/innergame.png');
+background-repeat:no-repeat;
+background-size: cover;
+height:450px;
+margin-top:-10px;
+}
+
+.jumbotron-custom h1{
+  color:white !important;
+}
+
+.jumbotron-custom p {
+  color:white;
+}
+
+img{
+height:100%;
+width:100%;
+}
+.button {
+  background-color:yellow;
+  color: black;
+}
+
+.label {
+    display: inline-block;
+    margin-bottom: 20px;
+    padding: 0 10px;
+    background-color: #000;
+    font-size: 10px;
+    font-weight: 500;
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 23px;
+    letter-spacing: 1px;
+}
+
+.custom-label{
+  width:100px;
+  margin:0 auto;
+}
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}

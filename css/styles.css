@@ -1,0 +1,59 @@
+h1 {
+  background-color: grey;
+  font-family:serif;
+  color:white;
+  border:5px groove navajowhite;
+}
+body{
+  text-align: center;
+}
+img{
+  width:500px;
+  margin:25px;
+  padding:40px;
+  border: 5px groove navajowhite;
+}
+
+.body content img{
+  width: 250px;
+  border: 5px groove navajowhite;
+}
+.body{
+  color:dodgerblue;
+}
+
+.content{
+    font-family:verdana;
+    margin: 0 auto;
+}
+
+.test-class{
+  font-color:#FF9933;
+
+}
+
+p.test-class{
+  color:#66CCCC;
+}
+.footer {
+  color:dodgerblue;
+}
+padding: 40px;
+    border: 5px solid navajowhite
+
+    .lebron-workout{
+      position:relative;
+    }
+
+    .jumbotron{
+      background-image: url;
+    }
+
+.jumbotron jumbotron custom{
+  background-image: url('../img/mindgrind.jpg');
+}
+
+img{
+  height:100%;
+  width:100%;
+}
