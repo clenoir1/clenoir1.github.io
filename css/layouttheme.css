@@ -1,0 +1,97 @@
+
+
+.jumbotron-custom {
+background-image: url('../img/ingredients.jpg');
+background-repeat:no-repeat;
+background-size: cover;
+height:800px;
+margin-top:-20px;
+color:white;
+}
+
+.portfolio img{
+  height: 100%;
+  width:100%;
+}
+
+.entreprenuer img{
+  height: 100%;
+  width: 100%;
+}
+/* attribute selector*/
+.no-gutter > [class*='col-'] {
+padding-right: 0;
+padding-left: 0;
+
+}
+
+
+.no-gutter-custom > [class*='col-'] {
+padding-right: 0;
+padding-left: 0;
+
+}
+
+.bg-primary {
+  background-color: #f05f40;
+  color: #fff;
+  height: 250px;
+  margin-top: -40px;
+}
+
+.section-heading {
+  margin-top: 0;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Helvetica, Arial, sans-serif;
+font-size: 30px;
+}
+
+h2 {
+  font-size: 30px;
+  margin-bottom: 10px;
+  font-weight: 500;
+  line-height: 1.1;
+  color: inherit;
+
+}
+
+.text-center {
+  text-align: center;
+}
+
+hr{
+max-width:50px;
+border-color: #f05f40;
+border-width: 3px;
+}
+
+.custom-glyphicon{
+  font-size: 50px;
+  color: #f05f40;
+
+}
+.center-text{
+  text-align: center;
+}
+
+.btn-xl{
+  padding: 15px 30px;
+}
+
+.btn-default{
+  background-color: #fff;
+  color: #222;
+}
+
+footer {
+  background: #272123;
+  border-top: 5px solid #d0d0d0;
+  box shadow: 0 -1px 0 #bababa;
+  display: block;
+  position: relative;
+  clear: both;
+  height: 400px;
+}
